@@ -147,7 +147,7 @@ const Webinar = () => {
         <Flex fontSize={18} fontWeight={600} gap={16}>
           <Flex alignItems={"center"} gap={2}>
             <AiFillCalendar />
-            <Text>21 Feb 2024</Text>
+            <Text>13 Feb 2024</Text>
           </Flex>
 
           <Flex alignItems={"center"} gap={2}>
